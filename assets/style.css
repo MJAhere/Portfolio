@@ -8,6 +8,22 @@ body {
 }
 
 
+.card {
+
+ display: inline-block;
+ height: 960px;
+ width: 960px;
+
+margin-left: 15%;
+
+overflow: hidden;
+
+
+
+ 
+    
+}
+
 footer {
     background: #666666;
     text-align: center;
