@@ -7,20 +7,6 @@ body {
 
 }
 
-nav {
-    background-color: lightslategray;
-}
-
-#navbar-navbar-expand-lg-navbar-light-bg-light {
-    margin-bottom: 10px;
-}
-
-.container {
-
-    max-width: 960px;
-    margin: 0 auto;
-}
-
 
 footer {
     background: #666666;
