@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 34px;
+    color: #777777;
+    background: url("../images/dark-honeycomb.png")
+
+}
+
+.container {
+
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+
+footer {
+    background: #666666;
+    text-align: center;
+    height: 150px;
+}
+
+.copyright {
+    color: lightslategray;
+    border-top: 8px solid #4aaaa5;
+    padding-top: 10px;
+}
+
+
+footer, .push {
+    height: 100px;
+}
+
+* {
+    box-sizing: border-box;
+  }
+
+  
