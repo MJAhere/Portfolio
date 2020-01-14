@@ -11,18 +11,26 @@ body {
 .card {
 
  display: inline-block;
- height: 960px;
+ height: 460px;
  width: 960px;
-
-margin-left: 15%;
-
+ margin-top: 20PX;
+ margin-left: 10px;
+ margin-right: 10px;
+ background-color: #4aaaa5;
 overflow: hidden;
+}
 
-
+.about {
+    margin-left: 20px;
+    background-color: ;
+    margin-top: 20px;
+    background-color: ;
+    margin-right: 20px;
+}
 
  
     
-}
+
 
 footer {
     background: #666666;
@@ -37,12 +45,25 @@ footer {
 }
 
 
-footer, .push {
+/* footer, .push {
     height: 100px;
-}
+} */
 
 * {
     box-sizing: border-box;
   }
 
-  
+  .footer,
+.push {
+  height: 200px;
+  margin-top: 300px;
+}
+
+.form-group {
+    margin-right: 40%;
+    margin-left: 20%;
+    text-align: center;
+    margin-top: 100px;
+}
+
+    
