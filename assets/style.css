@@ -7,11 +7,16 @@ body {
 
 }
 
+#about{
+    color: #4aaaa5;
+}
+
 
 
 .text {
     font-size: 16px;
     margin-right: 50%;
+    color: #4aaaa5;
 }
 
 .card {
@@ -62,8 +67,12 @@ footer {
   .footer,
 .push {
   height: 50px;
-  margin-top: 400px;
+  margin-top: 20px;
   
+}
+
+.pic {
+    padding-left: 600px;
 }
 
 .form-group {
